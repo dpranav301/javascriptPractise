@@ -18,3 +18,4 @@ const obj={
 console.log("Type of obj=="+typeof obj);
 console.log("Type of null=="+typeof null);
 console.log("Type of undefined==",typeof undefined);
+console.table([obj,array1,symbol2,symbol1,bigInt]);
